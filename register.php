@@ -3,7 +3,7 @@
 $host ='192.168.50.34';
 $dbname ='users_db';
 $dbuser ='admin';
-$dbpass ='';
+$dbpass ='123_#45&Dxt';
 
 // Create a connection to the MySQL database
 $conn = new mysqli($host, $dbuser, $dbpass, $dbname);
