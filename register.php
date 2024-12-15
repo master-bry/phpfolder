@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
-$host = '192.168.50.34';
-$dbname = 'users_db';
-$dbuser = 'admin';
-$dbpass = '123_#45&Dxt';
+$host ='192.168.50.34';
+$dbname ='users_db';
+$dbuser ='admin';
+$dbpass ='';
 
 // Create a connection to the MySQL database
 $conn = new mysqli($host, $dbuser, $dbpass, $dbname);
